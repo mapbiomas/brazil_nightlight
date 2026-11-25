@@ -1,0 +1,2 @@
+# Direct runtime dependency; production version pin pending confirmation.
+earthengine-api
